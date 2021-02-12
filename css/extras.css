@@ -11,9 +11,9 @@ p span .textarea {
   vertical-align: middle;
 }
 
-.table td.is-selected, .table th.is-selected {
-  background-color: #A4D5ED;
-  color: #fff;
+.table td.is-selected, .table th.is-selected, .has-background-primary {
+  background-color: #74489D !important;
+  color: #fff !important;
 }
 
 .content .table td {
